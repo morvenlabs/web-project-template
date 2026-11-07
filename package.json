@@ -6,11 +6,11 @@
   "author": "Jose Manuel Morales Patty",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MorveN11/web-project-template"
+    "url": "https://github.com/morvenlabs/web-project-template"
   },
-  "homepage": "https://github.com/MorveN11/web-project-template#readme",
+  "homepage": "https://github.com/morvenlabs/web-project-template#readme",
   "bugs": {
-    "url": "https://github.com/MorveN11/web-project-template/issues"
+    "url": "https://github.com/morvenlabs/web-project-template/issues"
   },
   "packageManager": "pnpm@12.18.0",
   "engines": {
