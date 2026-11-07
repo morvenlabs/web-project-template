@@ -1,6 +1,6 @@
 # web-project-template
 
-[![CI](https://github.com/MorveN11/web-project-template/actions/workflows/ci.yml/badge.svg)](https://github.com/MorveN11/web-project-template/actions/workflows/ci.yml)
+[![CI](https://github.com/morvenlabs/web-project-template/actions/workflows/ci.yml/badge.svg)](https://github.com/morvenlabs/web-project-template/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D24-339933)](package.json)
 

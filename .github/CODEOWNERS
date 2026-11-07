@@ -14,7 +14,7 @@
 #   * Team members           → cannot bypass. Their PRs must collect the
 #                                listed owner's review before merge.
 #
-# SUBSTITUTION: forks replace `@MorveN11` with their own user or team
+# SUBSTITUTION: forks replace `@morvenlabs` with their own user or team
 # handles (e.g. `@your-org/maintainers`). Unknown owners are ignored
 # by GitHub and flagged as errors in the CODEOWNERS file view.
 
@@ -24,18 +24,18 @@
 # ─── CI/CD & release infra ──────────────────────────────────────────
 # Touching workflows or release config is risky — require maintainer
 # sign-off on every PR.
-.github/                   @MorveN11
-/release.config.mjs         @MorveN11
+.github/                   @morvenlabs
+/release.config.mjs         @morvenlabs
 
 # ─── Backend ───────────────────────────────────────────────────────
 # API code and the shared Prisma schema need backend-review.
-/apps/api/                  @MorveN11
-/packages/db/               @MorveN11
+/apps/api/                  @morvenlabs
+/packages/db/               @morvenlabs
 
 # ─── Frontend ──────────────────────────────────────────────────────
 # Next.js / shadcn code needs frontend-review.
-/apps/web/                  @MorveN11
+/apps/web/                  @morvenlabs
 
 # ─── Shared types ──────────────────────────────────────────────────
 # Both backend and frontend consume this package — list both reviewers.
-/packages/shared-types/     @MorveN11
+/packages/shared-types/     @morvenlabs

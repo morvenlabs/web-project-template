@@ -27,5 +27,5 @@ First public release.
 - Docs: README, architecture, contributing guide, secrets reference,
   GitHub setup guide.
 
-[Unreleased]: https://github.com/MorveN11/web-project-template/compare/1.0.0...HEAD
-[1.0.0]: https://github.com/MorveN11/web-project-template/releases/tag/1.0.0
+[Unreleased]: https://github.com/morvenlabs/web-project-template/compare/1.0.0...HEAD
+[1.0.0]: https://github.com/morvenlabs/web-project-template/releases/tag/1.0.0

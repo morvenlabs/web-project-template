@@ -83,7 +83,7 @@ These are the job names from the workflows. Skipped jobs (e.g. `pr-check` on doc
 Notes:
 
 - **Solo maintainer:** GitHub does not let you approve your own PR, so keep approvals at **0** and leave *Require review from Code Owners* **off** (CODEOWNERS is a single user in this template). Admin bypass covers emergencies.
-- **Team:** raise approvals to 1, turn on Code Owners, and replace `@MorveN11` in `.github/CODEOWNERS` with your team handles.
+- **Team:** raise approvals to 1, turn on Code Owners, and replace `@morvenlabs` in `.github/CODEOWNERS` with your team handles.
 - "Allowed PR source" is a convention, not a GitHub setting; `check-branch.yml` already enforces branch names for features.
 - Enable **Do not allow bypassing the above settings** only if you have a second admin.
 
