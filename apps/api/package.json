@@ -24,7 +24,7 @@
     "@app/db": "workspace:*",
     "@app/shared-types": "workspace:*",
     "@clerk/backend": "^3.27.0",
-    "@hono/node-server": "^2.1.6",
+    "@hono/node-server": "^2.1.8",
     "@scalar/hono-api-reference": "^0.12.18",
     "@sentry/node": "^11.11.0",
     "hono": "^4.13.16",
